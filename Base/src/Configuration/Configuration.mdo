@@ -28,6 +28,10 @@
   </usedMobileApplicationFunctionalities>
   <mainSectionPicture/>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <detailedInformation>
+    <key>ru</key>
+    <value>Пара пара пам</value>
+  </detailedInformation>
   <logo/>
   <splash/>
   <dataLockControlMode>Managed</dataLockControlMode>
